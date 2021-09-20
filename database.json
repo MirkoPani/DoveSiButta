@@ -1,0 +1,3135 @@
+{
+	"Categorie": {
+		"cat0": {
+			"Nome": "Abiti usati"
+		},
+		"cat1": {
+			"Nome": "Carta"
+		},
+		"cat2": {
+			"Nome": "Ecocentro"
+		},
+		"cat3": {
+			"Nome": "Ecocentro (dove presente sulla Plastica non imballaggio)"
+		},
+		"cat4": {
+			"Nome": "Ecocentro (RAEE)"
+		},
+		"cat5": {
+			"Nome": "Ecocentro (RUP). E' sempre bene prima segnalare all'ASL locale per chiedere eventuale intervento dell'ARPA."
+		},
+		"cat6": {
+			"Nome": "Ecocentro (RUP). E' sempre bene prima segnalare all'ASL locale per chiedere intervento dell'ARPA."
+		},
+		"cat7": {
+			"Nome": "Ecocentro cassonetto del legno"
+		},
+		"cat8": {
+			"Nome": "Ecocentro nel cassonetto RUP"
+		},
+		"cat9": {
+			"Nome": "Ecocentro o ritiro Ingombranti"
+		},
+		"cat10": {
+			"Nome": "Ecocentro su cassonetto Metallo/alluminio"
+		},
+		"cat11": {
+			"Nome": "Metallo/alluminio"
+		},
+		"cat12": {
+			"Nome": "Nei comuni provvisti sulla Raccolta Pannolini altrimenti nel Secco Residuo/Indifferenziato"
+		},
+		"cat13": {
+			"Nome": "Plastica (imballaggio)"
+		},
+		"cat14": {
+			"Nome": "Secco Residuo/Indifferenziato"
+		},
+		"cat15": {
+			"Nome": "Secco Residuo/Indifferenziato o apposito contenitore presso farmacie ed ospedali"
+		},
+		"cat16": {
+			"Nome": "Secco Residuo/Indifferenziato o Ecocentro"
+		},
+		"cat17": {
+			"Nome": "Secco Residuo/Indifferenziato o Ecocentro ( dove presente sulla Plastica non imballaggio)"
+		},
+		"cat18": {
+			"Nome": "Sfalci e potature e ramaglie"
+		},
+		"cat19": {
+			"Nome": "Umido/Organico"
+		},
+		"cat20": {
+			"Nome": "Umido/Organico o Ecocentro su cassonetto Legno"
+		},
+		"cat21": {
+			"Nome": "Ecocentro di grandi dimensioni. Se di piccole dimensioni Secco Residuo/Indifferenziato"
+		},
+		"cat22": {
+			"Nome": "Ecocentro ( dove presente sulla Plastica non imballaggio)"
+		},
+		"cat23": {
+			"Nome": "Ecocentro o Secco Residuo/Indifferenziato se di piccole dimensioni"
+		},
+		"cat24": {
+			"Nome": "Ecocentro (RUP)"
+		},
+		"cat25": {
+			"Nome": "Vetro"
+		},
+		"cat26": {
+			"Nome": "Secco Residuo/Indifferenziato o separare manualmente i vari materiali"
+		},
+		"cat27": {
+			"Nome": "Ecocentro (RUP) o rivenditore dove si acquista la batteria nuova"
+		},
+		"cat28": {
+			"Nome": "Ecocentro (RUP) o Pile Esauste"
+		},
+		"cat29": {
+			"Nome": "Carta (COMIECO)"
+		},
+		"cat30": {
+			"Nome": "Parte inferiore in plastica su Plastica (imballaggio).Parte superiore se in alluminio sui Metalli, se in plastica su Plastica (imballaggio)."
+		},
+		"cat31": {
+			"Nome": "Farmaci Scaduti (RUP) presente presso le Farmacie o all'Ecocentro del Comune di appartenenza"
+		},
+		"cat32": {
+			"Nome": "Rivenditori Autorizzati"
+		},
+		"cat33": {
+			"Nome": "Contenitore su Metallo/alluminio. In caso simbolo infiammabile verificare presso il proprio comune, come per le�bombolette spray con simbolo chimico, se vanno portate all�Ecocentro nel cassonetto RUP. Tappo e cappuccio per la nebulizzazione�su Plastica (imballaggio)."
+		},
+		"cat34": {
+			"Nome": "Ecocentro nel cassonetto RUP. Alcuni comuni con il simbolo infiammabile le differenziano su Metallo/alluminio. Da verificare."
+		},
+		"cat35": {
+			"Nome": "Contenitore su Metallo/alluminio."
+		},
+		"cat36": {
+			"Nome": "Tappo e cappuccio per la nebulizzazione su Plastica (imballaggio)."
+		},
+		"cat37": {
+			"Nome": "Metallo/alluminio, altrimenti Ecocentro nel cassonetto del Ferro"
+		},
+		"cat38": {
+			"Nome": "Occorre verificare l'indicazione presente sulla confezione: se è indicato Raccolta carta significa che ha superato il test di riciclabilità e può essere conferito nella CARTA. In caso contrario Secco Residuo/Indifferenziato"
+		},
+		"cat39": {
+			"Nome": "Carta su Comune attivo raccolta Tetra Pak, altrimenti Secco Residuo/Indifferenziato"
+		},
+		"cat40": {
+			"Nome": "Se interamente di carta nella Carta, se poliaccoppiato carta /plastica nel Secco Residuo/Indifferenziato (carta solo se indicato sull�imballaggio)"
+		},
+		"cat41": {
+			"Nome": "Farmaci Scaduti contenitore presente presso le Farmacie o all'Ecocentro del Comune di appartenenza"
+		},
+		"cat42": {
+			"Nome": "Metallo/alluminio senza residui di cibo"
+		},
+		"cat43": {
+			"Nome": "Foglio se pulito sulla Carta. Foglio se unto sull'Umido/Organico. Pellicola trasparente sulla Plastica (imballaggio). Se non si vuol separare Secco Residuo/Indifferenziato"
+		},
+		"cat44": {
+			"Nome": "Secco Residuo/Indifferenziato, a meno che ci sia l'indicazione riciclabile allora si getta sulla Carta."
+		},
+		"cat45": {
+			"Nome": "Parte pulita Carta/ Parte sporca di olio e o residui di pizza Umido/Organico. Nei Comuni privi di raccolta dell'umido andrà nel Secco Residuo/Indifferenziato."
+		},
+		"cat46": {
+			"Nome": "Ecocentro, mai nel Secco Residuo/Indifferenziato essendo un RIFIUTO SPECIALE"
+		},
+		"cat47": {
+			"Nome": "Ecocentro nel cassonetto del LEGNO"
+		},
+		"cat48": {
+			"Nome": "Ecocentro, dove presente sulla Plastica non imballaggio"
+		},
+		"cat49": {
+			"Nome": "Ecocentro nel cassonetto INERTI, se non presente nel Secco Residuo/Indifferenziato"
+		},
+		"cat50": {
+			"Nome": "Se di carta nella raccolta della Carta. Se in plastica nella raccolta del Secco Residuo/ Indifferenziato, se in stoffa nella raccolta del Secco Residuo/Indifferenziato"
+		},
+		"cat51": {
+			"Nome": "Si deve separare manualmente la parte in plastica e gettarla nella raccolta della Plastica e la restante parte in cartoncino nella raccolta della Carta."
+		},
+		"cat52": {
+			"Nome": "Scatola nella Carta, Sacchetto interno in poliaccoppiato a prevalenza plastica nella Plastica."
+		},
+		"cat53": {
+			"Nome": "Croccantini nell'Umido/Organico, Busta nella Plastica, Contenitore in carta nella Carta."
+		},
+		"cat54": {
+			"Nome": "Secco Residuo/Indifferenziato, Dove presente all'Ecocentro nel cassonetto della Plastica NON imballaggio"
+		},
+		"cat55": {
+			"Nome": "Secco Residuo/Indifferenziato (COMIECO) / Umido/Organico (CIC)"
+		},
+		"cat56": {
+			"Nome": "Filtro: Umido/Organico. Punto metallico: Secco Residuo/Indifferenziato"
+		},
+		"cat57": {
+			"Nome": "Secco Residuo/Indifferenziato per giocattoli di piccole dimensioni. Ecocentro per giocattoli di grandi dimensioni."
+		},
+		"cat58": {
+			"Nome": "Ecocentro nel cassonetto RAEE"
+		},
+		"cat59": {
+			"Nome": "Secco Residuo/Indifferenziato (grandi quantità Ecocentro)"
+		},
+		"cat60": {
+			"Nome": "Carta (COMIECO)"
+		},
+		"cat61": {
+			"Nome": "Ecocentro nel cassonetto LEGNO"
+		},
+		"cat62": {
+			"Nome": "Abiti Usati"
+		},
+		"cat63": {
+			"Nome": "Ecocentro o Secco Residuo/Indifferenziato"
+		},
+		"cat64": {
+			"Nome": "Secco Residuo/Indifferenziato (solo pochissimi impianti dell'umido/organico riescono a trattare questo rifiuto dalla decomposizione molto lunga)"
+		},
+		"cat65": {
+			"Nome": "Secco Residuo/Indifferenziato (solo pochissimi impianti dell'umido/organico riescono a trattare questo rifiuto)"
+		},
+		"cat66": {
+			"Nome": "Ecocentro nel cassonetto INERTI"
+		},
+		"cat67": {
+			"Nome": "Secco Residuo/Indifferenziato o Ecocentro (plastica non imballaggio)"
+		},
+		"cat68": {
+			"Nome": "Se in carta nella raccolta della Carta, se in plastica nella raccolta del Secco Residuo/ Indifferenziato, se in stoffa nella raccolta del Secco Residuo/Indifferenziato"
+		},
+		"cat69": {
+			"Nome": "Punti Raccolta Olio Vegetale Esausto o Ecocentro (RUP)"
+		},
+		"cat70": {
+			"Nome": "Pacchetto nella carta, Pellicola interna argentata nel Secco Residuo/Indifferenziato, Pellicola trasparente esterna nella Plastica."
+		},
+		"cat71": {
+			"Nome": "Ecocentro nel cassonetto del Metallo/alluminio"
+		},
+		"cat72": {
+			"Nome": "Scatola nella Carta, Sacchetto interno in plastica nella Plastica, Pirottino di carta nel Secco Residuo/Indifferenziato, Gancio della scatola nel Secco Residuo/Indifferenziato."
+		},
+		"cat73": {
+			"Nome": "Secco Residuo/Indifferenziato (solo pochi impianti dell'umido/organico riescono a trattare questo rifiuto dalla decomposizione molto lunga)"
+		},
+		"cat74": {
+			"Nome": "Ecocentro nel cassonetto dei Metalli"
+		},
+		"cat75": {
+			"Nome": "Secco Residuo/Indifferenziato o Ecocentro sulla Plastica non imballaggio"
+		},
+		"cat76": {
+			"Nome": "Pile esauste (RUP) o Ecocentro (RUP)"
+		},
+		"cat77": {
+			"Nome": "Gommista Convenzionato con i Consorzi di Raccolta o Ecocentro"
+		},
+		"cat78": {
+			"Nome": "Secco Residuo/Indifferenziato o Ecocentro o ritiro Ingombranti nel caso di grandi dimensioni"
+		},
+		"cat79": {
+			"Nome": "Metallo/alluminio o Ecocentro sul cassonetto Metallo/alluminio."
+		},
+		"cat80": {
+			"Nome": "Secco Residuo/Indifferenziato. Dove presente all'Ecocentro nel cassonetto della Plastica NON imballaggio"
+		},
+		"cat81": {
+			"Nome": "Se prevalenza in plastica su Plastica (imballaggio). Abitualmente sono in plastica. Se prevalenza alluminio sui Metalli."
+		},
+		"cat82": {
+			"Nome": "La parte di carta su Carta. La parte di plastica sulla Plastica (imballaggio)."
+		},
+		"cat83": {
+			"Nome": "Secco Residuo/Indifferenziato o parte in carta sulla Carta e parte in plastica sulla Plastica (imballaggio)"
+		},
+		"cat84": {
+			"Nome": "PULITO nell'Umido/Organico. SPORCO MATERIALE ORGANICO nell'Umido/Organico. SPORCO MATERIALE DETERGENTE, COSMETICI, ECC� nel Secco Residuo/Indifferenziato"
+		},
+		"cat85": {
+			"Nome": "Umido/Organico o Sfalci e potature e ramaglie"
+		},
+		"cat86": {
+			"Nome": "Ecocentro nel cassonetto RUP. Stessa cosa se la bottiglietta di confezione è piena o semivuota. Invece la bottiglietta vuota nella raccolta della Plastica"
+		},
+		"cat87": {
+			"Nome": "Raccolta Dedicata o Plastica (imballaggio)"
+		},
+		"cat88": {
+			"Nome": "Raccolta Dedicata, Ecocentro nel Legno o Umido/Organico"
+		},
+		"cat89": {
+			"Nome": "Scatola nella Carta, Sacchetto interno in plastica nella Plastica, Sacchetto esterno in plastica nella Plastica, Involucro ricopre l�alimento poliaccoppiato a prevalenza plastica nella Plastica, se a prevalenza alluminio nell�Alluminio."
+		},
+		"cat90": {
+			"Nome": "TAPPO nella Plastica (imballaggio). TUBETTO IN PLASTICA nella Plastica. TUBETTO IN ALLUMINIO nel Metallo/alluminio."
+		},
+		"cat91": {
+			"Nome": "TAPPO nella Plastica (imballaggio). LINGUETTA nel Secco Residuo/Indifferenziato. FONDO nel Metallo/alluminio. TUBO nella Carta."
+		},
+		"cat92": {
+			"Nome": "Secco Residuo/Indifferenziato o Ecocentro dove presente nel cassonetto della Plastica NON imballaggio"
+		},
+		"cat93": {
+			"Nome": "Vetro (coperchio Metallo/alluminio)"
+		},
+		"cat94": {
+			"Nome": "PLASTICA nella Plastica (imballaggio). VETRO nel Vetro. LINGUETTA in alluminio nel Metallo/alluminio.LINGUETTA in plastica nel Plastica.COPERCHIO in plastica nella Plastica (imballaggio)."
+		}
+	},
+	"Rifiuti": {
+		"id0": {
+			"Nome": "Abiti ed abbigliamento in buono stato",
+			"Categoria": "cat0"
+		},
+		"id1": {
+			"Nome": "Agende con copertina di carta",
+			"Categoria": "cat1"
+		},
+		"id2": {
+			"Nome": "Agende tolta la copertina se di plastica o materiali misti",
+			"Categoria": "cat1"
+		},
+		"id3": {
+			"Nome": "Album da disegno (togliere eventuali parti in metallo o plastica)",
+			"Categoria": "cat1"
+		},
+		"id4": {
+			"Nome": "Acciaio grandi dimensioni",
+			"Categoria": "cat2"
+		},
+		"id5": {
+			"Nome": "Archi di tipo sportivo",
+			"Categoria": "cat2"
+		},
+		"id6": {
+			"Nome": "Asfalto",
+			"Categoria": "cat2"
+		},
+		"id7": {
+			"Nome": "Alberi di Natale sintetici",
+			"Categoria": "cat3"
+		},
+		"id8": {
+			"Nome": "Accessori cellulari elettrici ed elettronici",
+			"Categoria": "cat4"
+		},
+		"id9": {
+			"Nome": "Adattatore USB",
+			"Categoria": "cat4"
+		},
+		"id10": {
+			"Nome": "Adattatore USB per auto",
+			"Categoria": "cat4"
+		},
+		"id11": {
+			"Nome": "Addobbi natalizi elettronici",
+			"Categoria": "cat4"
+		},
+		"id12": {
+			"Nome": "Antizanzare ad ultrasuoni",
+			"Categoria": "cat4"
+		},
+		"id13": {
+			"Nome": "Apparecchiature elettriche ed elettroniche di qualsiasi dimensione",
+			"Categoria": "cat4"
+		},
+		"id14": {
+			"Nome": "Apparecchiature informatiche di qualsiasi dimensione",
+			"Categoria": "cat4"
+		},
+		"id15": {
+			"Nome": "Asciugacapelli",
+			"Categoria": "cat4"
+		},
+		"id16": {
+			"Nome": "Aspirapolvere",
+			"Categoria": "cat4"
+		},
+		"id17": {
+			"Nome": "Aspiratori nasali elettrici",
+			"Categoria": "cat4"
+		},
+		"id18": {
+			"Nome": "Auricolari",
+			"Categoria": "cat4"
+		},
+		"id19": {
+			"Nome": "Amianto in lastre",
+			"Categoria": "cat5"
+		},
+		"id20": {
+			"Nome": "Amianto",
+			"Categoria": "cat6"
+		},
+		"id21": {
+			"Nome": "Appendiabiti in legno",
+			"Categoria": "cat7"
+		},
+		"id22": {
+			"Nome": "Assi in legno",
+			"Categoria": "cat7"
+		},
+		"id23": {
+			"Nome": "Acetone",
+			"Categoria": "cat8"
+		},
+		"id24": {
+			"Nome": "Acidi",
+			"Categoria": "cat8"
+		},
+		"id25": {
+			"Nome": "Acquaragia",
+			"Categoria": "cat8"
+		},
+		"id26": {
+			"Nome": "Armadio",
+			"Categoria": "cat9"
+		},
+		"id27": {
+			"Nome": "Assi da stiro",
+			"Categoria": "cat9"
+		},
+		"id28": {
+			"Nome": "Attaccapanni",
+			"Categoria": "cat9"
+		},
+		"id29": {
+			"Nome": "Attrezzature sportive",
+			"Categoria": "cat9"
+		},
+		"id30": {
+			"Nome": "Alluminio imballaggi ed oggetti di grandi dimensioni",
+			"Categoria": "cat10"
+		},
+		"id31": {
+			"Nome": "Alluminio lastre",
+			"Categoria": "cat10"
+		},
+		"id32": {
+			"Nome": "Acciaio piccoli oggetti o imballaggi",
+			"Categoria": "cat11"
+		},
+		"id33": {
+			"Nome": "Alluminio imballaggi ed oggetti di piccole dimensioni",
+			"Categoria": "cat11"
+		},
+		"id34": {
+			"Nome": "Appendiabiti metallo/alluminio",
+			"Categoria": "cat11"
+		},
+		"id35": {
+			"Nome": "Astucci in metallo",
+			"Categoria": "cat11"
+		},
+		"id36": {
+			"Nome": "Assorbenti igienici",
+			"Categoria": "cat12"
+		},
+		"id37": {
+			"Nome": "Alcool contenitore vuoto",
+			"Categoria": "cat13"
+		},
+		"id38": {
+			"Nome": "Appendiabiti in plastica",
+			"Categoria": "cat13"
+		},
+		"id39": {
+			"Nome": "Appendini in plastica con gancio in metallo",
+			"Categoria": "cat13"
+		},
+		"id40": {
+			"Nome": "Accendigas",
+			"Categoria": "cat14"
+		},
+		"id41": {
+			"Nome": "Accendini",
+			"Categoria": "cat14"
+		},
+		"id42": {
+			"Nome": "Accessori bagno",
+			"Categoria": "cat14"
+		},
+		"id43": {
+			"Nome": "Accessori bambini ",
+			"Categoria": "cat14"
+		},
+		"id44": {
+			"Nome": "Accessori casa ",
+			"Categoria": "cat14"
+		},
+		"id45": {
+			"Nome": "Accessori cucina",
+			"Categoria": "cat14"
+		},
+		"id46": {
+			"Nome": "Accessori depilazione",
+			"Categoria": "cat14"
+		},
+		"id47": {
+			"Nome": "Accessori per animali",
+			"Categoria": "cat14"
+		},
+		"id48": {
+			"Nome": "Accessori per i capelli",
+			"Categoria": "cat14"
+		},
+		"id49": {
+			"Nome": "Addobbi natalizi non elettronici",
+			"Categoria": "cat14"
+		},
+		"id50": {
+			"Nome": "Adesivi",
+			"Categoria": "cat14"
+		},
+		"id51": {
+			"Nome": "Agende con copertine di plastica o materiali misti",
+			"Categoria": "cat14"
+		},
+		"id52": {
+			"Nome": "Aghi da cucito",
+			"Categoria": "cat14"
+		},
+		"id53": {
+			"Nome": "Aghi metallici",
+			"Categoria": "cat14"
+		},
+		"id54": {
+			"Nome": "Annaffiatoio",
+			"Categoria": "cat14"
+		},
+		"id55": {
+			"Nome": "Antitarme",
+			"Categoria": "cat14"
+		},
+		"id56": {
+			"Nome": "Antizanzare",
+			"Categoria": "cat14"
+		},
+		"id57": {
+			"Nome": "Apribottiglie",
+			"Categoria": "cat14"
+		},
+		"id58": {
+			"Nome": "Arbre Magique",
+			"Categoria": "cat14"
+		},
+		"id59": {
+			"Nome": "Asciugatutto bagnato o imbevuto di cosmetici, detergenti, colori",
+			"Categoria": "cat14"
+		},
+		"id60": {
+			"Nome": "Asciugamani",
+			"Categoria": "cat14"
+		},
+		"id61": {
+			"Nome": "Asciugamani di carta sporchi materiale non organico",
+			"Categoria": "cat14"
+		},
+		"id62": {
+			"Nome": "Assorbicolore per bucato",
+			"Categoria": "cat14"
+		},
+		"id63": {
+			"Nome": "Astucci (beautycase, della scuola, ecc)",
+			"Categoria": "cat14"
+		},
+		"id64": {
+			"Nome": "Audiocassette",
+			"Categoria": "cat14"
+		},
+		"id65": {
+			"Nome": "Aghi siringhe usati o non usati",
+			"Categoria": "cat15"
+		},
+		"id66": {
+			"Nome": "Aghi insulina usati o non usati",
+			"Categoria": "cat15"
+		},
+		"id67": {
+			"Nome": "Abiti ed abbigliamento in cattivo stato",
+			"Categoria": "cat16"
+		},
+		"id68": {
+			"Nome": "Accessori cellulari",
+			"Categoria": "cat16"
+		},
+		"id69": {
+			"Nome": "Aspiratori nasali",
+			"Categoria": "cat16"
+		},
+		"id70": {
+			"Nome": "Attrezzi da ferramenta e bricolage",
+			"Categoria": "cat16"
+		},
+		"id71": {
+			"Nome": "Appendiabiti in plastica vendute senza abito",
+			"Categoria": "cat17"
+		},
+		"id72": {
+			"Nome": "Alberi di Natale naturali",
+			"Categoria": "cat18"
+		},
+		"id73": {
+			"Nome": "Alimenti",
+			"Categoria": "cat19"
+		},
+		"id74": {
+			"Nome": "Alimenti deteriorati",
+			"Categoria": "cat19"
+		},
+		"id75": {
+			"Nome": "Alimenti scaduti",
+			"Categoria": "cat19"
+		},
+		"id76": {
+			"Nome": "Arachidi",
+			"Categoria": "cat19"
+		},
+		"id77": {
+			"Nome": "Asciugatutto bagnato o sporgo di materiale organico",
+			"Categoria": "cat19"
+		},
+		"id78": {
+			"Nome": "Asciugatutto con piccole decorazioni colorate",
+			"Categoria": "cat19"
+		},
+		"id79": {
+			"Nome": "Asciugamani di carta umidi",
+			"Categoria": "cat19"
+		},
+		"id80": {
+			"Nome": "Assorbenti igienici compostabili",
+			"Categoria": "cat19"
+		},
+		"id81": {
+			"Nome": "Avanzi di cibo",
+			"Categoria": "cat19"
+		},
+		"id82": {
+			"Nome": "Bacchette cinesi plastica",
+			"Categoria": "cat14"
+		},
+		"id83": {
+			"Nome": "Bacchette cinesi in legno",
+			"Categoria": "cat20"
+		},
+		"id84": {
+			"Nome": "Bacchette giapponesi plastica",
+			"Categoria": "cat14"
+		},
+		"id85": {
+			"Nome": "Bacchette giapponesi in legno",
+			"Categoria": "cat20"
+		},
+		"id86": {
+			"Nome": "Bacinelle composte da vari materiali",
+			"Categoria": "cat21"
+		},
+		"id87": {
+			"Nome": "Bacinelle di plastica",
+			"Categoria": "cat22"
+		},
+		"id88": {
+			"Nome": "Badge",
+			"Categoria": "cat14"
+		},
+		"id89": {
+			"Nome": "Bambole",
+			"Categoria": "cat14"
+		},
+		"id90": {
+			"Nome": "Bambù",
+			"Categoria": "cat2"
+		},
+		"id91": {
+			"Nome": "Banane",
+			"Categoria": "cat19"
+		},
+		"id92": {
+			"Nome": "Bancali in legno",
+			"Categoria": "cat9"
+		},
+		"id93": {
+			"Nome": "Bancomat",
+			"Categoria": "cat14"
+		},
+		"id94": {
+			"Nome": "Bandiere",
+			"Categoria": "cat14"
+		},
+		"id95": {
+			"Nome": "Barattolame",
+			"Categoria": "cat11"
+		},
+		"id96": {
+			"Nome": "Barattoli di coccio",
+			"Categoria": "cat23"
+		},
+		"id97": {
+			"Nome": "Barattoli di diluenti",
+			"Categoria": "cat24"
+		},
+		"id98": {
+			"Nome": "Barattoli di latta",
+			"Categoria": "cat11"
+		},
+		"id99": {
+			"Nome": "Barattoli di marmellate",
+			"Categoria": "cat25"
+		},
+		"id100": {
+			"Nome": "Barattoli di pittura",
+			"Categoria": "cat24"
+		},
+		"id101": {
+			"Nome": "Barattoli di solventi",
+			"Categoria": "cat24"
+		},
+		"id102": {
+			"Nome": "Barattoli di tinteggiature",
+			"Categoria": "cat24"
+		},
+		"id103": {
+			"Nome": "Barattoli di vernici",
+			"Categoria": "cat24"
+		},
+		"id104": {
+			"Nome": "Barattoli di vetro",
+			"Categoria": "cat25"
+		},
+		"id105": {
+			"Nome": "Barattoli idropittura puliti",
+			"Categoria": "cat13"
+		},
+		"id106": {
+			"Nome": "Barattoli in acciaio",
+			"Categoria": "cat11"
+		},
+		"id107": {
+			"Nome": "Barattoli in cartone",
+			"Categoria": "cat1"
+		},
+		"id108": {
+			"Nome": "Barattoli in metallo",
+			"Categoria": "cat11"
+		},
+		"id109": {
+			"Nome": "Barattoli in plastica da imballaggio",
+			"Categoria": "cat13"
+		},
+		"id110": {
+			"Nome": "Barattoli in plastica durevoli da cucina",
+			"Categoria": "cat14"
+		},
+		"id111": {
+			"Nome": "Barattoli per cibo per animali in metallo",
+			"Categoria": "cat11"
+		},
+		"id112": {
+			"Nome": "Barattoli per cibo per animali in plastica",
+			"Categoria": "cat13"
+		},
+		"id113": {
+			"Nome": "Barattoli per creme (plastica)",
+			"Categoria": "cat13"
+		},
+		"id114": {
+			"Nome": "Barattoli per creme (plastica e vetro)",
+			"Categoria": "cat14"
+		},
+		"id115": {
+			"Nome": "Barattoli per creme (vetro)",
+			"Categoria": "cat25"
+		},
+		"id116": {
+			"Nome": "Barattolo vernice",
+			"Categoria": "cat24"
+		},
+		"id117": {
+			"Nome": "Barattoli Orzo o Caffè Solubile ",
+			"Categoria": "cat26"
+		},
+		"id118": {
+			"Nome": "Barbecue usa e getta",
+			"Categoria": "cat14"
+		},
+		"id119": {
+			"Nome": "Barilotti portasorpresa delle uova di cioccolato",
+			"Categoria": "cat13"
+		},
+		"id120": {
+			"Nome": "Bastoncini cotonati anche con scritta biodegradabile",
+			"Categoria": "cat14"
+		},
+		"id121": {
+			"Nome": "Bastoncini del gelato (legno)",
+			"Categoria": "cat19"
+		},
+		"id122": {
+			"Nome": "Bastoncini del gelato (plastica)",
+			"Categoria": "cat13"
+		},
+		"id123": {
+			"Nome": "Bastoncini del lecca lecca (plastica)",
+			"Categoria": "cat13"
+		},
+		"id124": {
+			"Nome": "Bastoncini del lollipop (plastica)",
+			"Categoria": "cat13"
+		},
+		"id125": {
+			"Nome": "Bastoncini di cotone anche con scritta biodegradabile",
+			"Categoria": "cat14"
+		},
+		"id126": {
+			"Nome": "Bastoncini di legno per involtini carne",
+			"Categoria": "cat19"
+		},
+		"id127": {
+			"Nome": "Bastoncini per le orecchie anche con scritta biodegradabile",
+			"Categoria": "cat14"
+		},
+		"id128": {
+			"Nome": "Bastoncini per profumatori ambiente",
+			"Categoria": "cat14"
+		},
+		"id129": {
+			"Nome": "Bastoncini per spiedini",
+			"Categoria": "cat19"
+		},
+		"id130": {
+			"Nome": "Batterie auto o moto",
+			"Categoria": "cat27"
+		},
+		"id131": {
+			"Nome": "Batterie esauste (pile)",
+			"Categoria": "cat28"
+		},
+		"id132": {
+			"Nome": "Batterie al Litio",
+			"Categoria": "cat28"
+		},
+		"id133": {
+			"Nome": "Batterie al piombo",
+			"Categoria": "cat24"
+		},
+		"id134": {
+			"Nome": "Batterie del cellulare o smartphone",
+			"Categoria": "cat28"
+		},
+		"id135": {
+			"Nome": "Batterie ricaricabili",
+			"Categoria": "cat28"
+		},
+		"id136": {
+			"Nome": "Batterie scariche",
+			"Categoria": "cat28"
+		},
+		"id137": {
+			"Nome": "Battery chargers",
+			"Categoria": "cat4"
+		},
+		"id138": {
+			"Nome": "Battery pack",
+			"Categoria": "cat4"
+		},
+		"id139": {
+			"Nome": "Batuffoli di ovatta o cotone",
+			"Categoria": "cat14"
+		},
+		"id140": {
+			"Nome": "Baule",
+			"Categoria": "cat9"
+		},
+		"id141": {
+			"Nome": "Bavaglino",
+			"Categoria": "cat14"
+		},
+		"id142": {
+			"Nome": "Benda",
+			"Categoria": "cat14"
+		},
+		"id143": {
+			"Nome": "Berretto non riutilizzabile",
+			"Categoria": "cat14"
+		},
+		"id144": {
+			"Nome": "Berretto in buono stato",
+			"Categoria": "cat0"
+		},
+		"id145": {
+			"Nome": "Biancheria non riutilizzabile",
+			"Categoria": "cat16"
+		},
+		"id146": {
+			"Nome": "Biancheria in buono stato",
+			"Categoria": "cat0"
+		},
+		"id147": {
+			"Nome": "Bianchetto",
+			"Categoria": "cat14"
+		},
+		"id148": {
+			"Nome": "Biberon",
+			"Categoria": "cat14"
+		},
+		"id149": {
+			"Nome": "Bicarbonato",
+			"Categoria": "cat19"
+		},
+		"id150": {
+			"Nome": "Bicchiere della Coca Cola in vetro",
+			"Categoria": "cat14"
+		},
+		"id151": {
+			"Nome": "Bicchieri compostabili",
+			"Categoria": "cat19"
+		},
+		"id152": {
+			"Nome": "Bicchieri di carta",
+			"Categoria": "cat1"
+		},
+		"id153": {
+			"Nome": "Bicchieri di cristallo",
+			"Categoria": "cat14"
+		},
+		"id154": {
+			"Nome": "Bicchieri di Mater-bi o PLA",
+			"Categoria": "cat19"
+		},
+		"id155": {
+			"Nome": "Bicchieri di plastica usa e getta puliti",
+			"Categoria": "cat13"
+		},
+		"id156": {
+			"Nome": "Bicchieri di plastica usa e getta sporchi",
+			"Categoria": "cat14"
+		},
+		"id157": {
+			"Nome": "Bicchieri di plastica durevoli non usa e getta",
+			"Categoria": "cat17"
+		},
+		"id158": {
+			"Nome": "Bicchieri di vetro",
+			"Categoria": "cat14"
+		},
+		"id159": {
+			"Nome": "Bicchierini del caffè in plastica",
+			"Categoria": "cat13"
+		},
+		"id160": {
+			"Nome": "Bicicletta",
+			"Categoria": "cat9"
+		},
+		"id161": {
+			"Nome": "Bidoncini anche in plastica",
+			"Categoria": "cat2"
+		},
+		"id162": {
+			"Nome": "Big bags",
+			"Categoria": "cat13"
+		},
+		"id163": {
+			"Nome": "Bigiotteria",
+			"Categoria": "cat14"
+		},
+		"id164": {
+			"Nome": "Biglie di vetro e/o plastica",
+			"Categoria": "cat14"
+		},
+		"id165": {
+			"Nome": "Biglietto aereo(anche con banda magnetica)",
+			"Categoria": "cat29"
+		},
+		"id166": {
+			"Nome": "Biglietto dell'autobus (anche con banda magnetica)",
+			"Categoria": "cat29"
+		},
+		"id167": {
+			"Nome": "Biglietto del cinema",
+			"Categoria": "cat29"
+		},
+		"id168": {
+			"Nome": "Biglietto del treno (anche con banda magnetica)",
+			"Categoria": "cat29"
+		},
+		"id169": {
+			"Nome": "Biglietto della metropolitana (anche con banda magnetica)",
+			"Categoria": "cat29"
+		},
+		"id170": {
+			"Nome": "Biglietto del gratta e vinci",
+			"Categoria": "cat29"
+		},
+		"id171": {
+			"Nome": "Bilancia pesa persone o da cucina",
+			"Categoria": "cat2"
+		},
+		"id172": {
+			"Nome": "Bilancia elettronica pesa persone o da cucina",
+			"Categoria": "cat4"
+		},
+		"id173": {
+			"Nome": "Bilanceri sportivi",
+			"Categoria": "cat2"
+		},
+		"id174": {
+			"Nome": "Biologico",
+			"Categoria": "cat19"
+		},
+		"id175": {
+			"Nome": "Biro",
+			"Categoria": "cat14"
+		},
+		"id176": {
+			"Nome": "Biscotti",
+			"Categoria": "cat19"
+		},
+		"id177": {
+			"Nome": "Bisogni degli animali domestici",
+			"Categoria": "cat14"
+		},
+		"id178": {
+			"Nome": "Bistecchiere",
+			"Categoria": "cat2"
+		},
+		"id179": {
+			"Nome": "Bistecchiere elettriche",
+			"Categoria": "cat4"
+		},
+		"id180": {
+			"Nome": "Bitume",
+			"Categoria": "cat2"
+		},
+		"id181": {
+			"Nome": "Blister delle lenti a contatto usa e getta",
+			"Categoria": "cat30"
+		},
+		"id182": {
+			"Nome": "Blister delle medicine in alluminio (vuoto)",
+			"Categoria": "cat11"
+		},
+		"id183": {
+			"Nome": "Blister delle medicine in plastica (vuoto)",
+			"Categoria": "cat13"
+		},
+		"id184": {
+			"Nome": "Blister delle medicine poliaccoppiato plastica/alluminio (vuoto)",
+			"Categoria": "cat13"
+		},
+		"id185": {
+			"Nome": "Blister delle medicine pieno o semipieno",
+			"Categoria": "cat31"
+		},
+		"id186": {
+			"Nome": "Blocchi da disegno (togliere eventuali parti in metallo o plastica)",
+			"Categoria": "cat1"
+		},
+		"id187": {
+			"Nome": "Block notes (togliere eventuali parti in metallo o plastica)",
+			"Categoria": "cat1"
+		},
+		"id188": {
+			"Nome": "Bobine in legno per cavi elettrici",
+			"Categoria": "cat2"
+		},
+		"id189": {
+			"Nome": "Boccetta del profumo in vetro (vuota)",
+			"Categoria": "cat25"
+		},
+		"id190": {
+			"Nome": "Boccioni per acqua (per ufficio)",
+			"Categoria": "cat13"
+		},
+		"id191": {
+			"Nome": "Boiler",
+			"Categoria": "cat4"
+		},
+		"id192": {
+			"Nome": "Bolle d'aria",
+			"Categoria": "cat13"
+		},
+		"id193": {
+			"Nome": "Bolle di sapone (contenitore vuoto)",
+			"Categoria": "cat13"
+		},
+		"id194": {
+			"Nome": "Bollette (foglio di carta)",
+			"Categoria": "cat1"
+		},
+		"id195": {
+			"Nome": "Bombole del gas",
+			"Categoria": "cat32"
+		},
+		"id196": {
+			"Nome": "Bombolette deodoranti, panna spray, spuma per i capelli, lacca, profumi.",
+			"Categoria": "cat33"
+		},
+		"id197": {
+			"Nome": "Bomboletta schiuma da barba",
+			"Categoria": "cat33"
+		},
+		"id198": {
+			"Nome": "Bombolette spray CON SIMBOLO chimico infiammabile o tossico",
+			"Categoria": "cat34"
+		},
+		"id199": {
+			"Nome": "Bombolette spray SENZA simbolo chimico infiammabile o tossico",
+			"Categoria": "cat35"
+		},
+		"id200": {
+			"Nome": "",
+			"Categoria": "cat36"
+		},
+		"id201": {
+			"Nome": "Bombolette spray dell'insetticida",
+			"Categoria": "cat8"
+		},
+		"id202": {
+			"Nome": "Bombolette spray della vernice",
+			"Categoria": "cat8"
+		},
+		"id203": {
+			"Nome": "Borsa (in pelle, tela, ed altri materiali) in buono stato",
+			"Categoria": "cat0"
+		},
+		"id204": {
+			"Nome": "Borsa (in pelle, tela, ed altri materiali) in cattivo stato",
+			"Categoria": "cat16"
+		},
+		"id205": {
+			"Nome": "Borsellino (in pelle,t ela, ed altri materiali) in buono stato",
+			"Categoria": "cat0"
+		},
+		"id206": {
+			"Nome": "Borsellino (in pelle, tela, ed altri materiali) in cattivo stato",
+			"Categoria": "cat16"
+		},
+		"id207": {
+			"Nome": "Bottiglie di cristallo",
+			"Categoria": "cat14"
+		},
+		"id208": {
+			"Nome": "Bottiglie di plastica",
+			"Categoria": "cat13"
+		},
+		"id209": {
+			"Nome": "Bottiglie di vetro",
+			"Categoria": "cat25"
+		},
+		"id210": {
+			"Nome": "Bottiglie in BIOPLASTICA",
+			"Categoria": "cat19"
+		},
+		"id211": {
+			"Nome": "Bottiglietta del profumo in vetro",
+			"Categoria": "cat25"
+		},
+		"id212": {
+			"Nome": "Bugiardino (Foglietto illustrativo dei medicinali)",
+			"Categoria": "cat1"
+		},
+		"id213": {
+			"Nome": "Bulloni di ferro/alluminio",
+			"Categoria": "cat37"
+		},
+		"id214": {
+			"Nome": "Burrocacao (stick esaurito)",
+			"Categoria": "cat13"
+		},
+		"id215": {
+			"Nome": "Buccia del formaggio (no di cera)",
+			"Categoria": "cat19"
+		},
+		"id216": {
+			"Nome": "Buccia del formaggio di cera",
+			"Categoria": "cat14"
+		},
+		"id217": {
+			"Nome": "Busta borotalco",
+			"Categoria": "cat13"
+		},
+		"id218": {
+			"Nome": "Busta dei biscotti (tetrapak)",
+			"Categoria": "cat38"
+		},
+		"id219": {
+			"Nome": "Busta del latte",
+			"Categoria": "cat39"
+		},
+		"id220": {
+			"Nome": "Busta della pasta",
+			"Categoria": "cat13"
+		},
+		"id221": {
+			"Nome": "Busta delle merendine",
+			"Categoria": "cat13"
+		},
+		"id222": {
+			"Nome": "Busta formaggio grattugiato",
+			"Categoria": "cat13"
+		},
+		"id223": {
+			"Nome": "Busta insalate pronte",
+			"Categoria": "cat13"
+		},
+		"id224": {
+			"Nome": "Busta patatine",
+			"Categoria": "cat13"
+		},
+		"id225": {
+			"Nome": "Busta zucchero a velo",
+			"Categoria": "cat40"
+		},
+		"id226": {
+			"Nome": "Buste cibo secco ed umido per animali",
+			"Categoria": "cat13"
+		},
+		"id227": {
+			"Nome": "Buste da lettera di carta",
+			"Categoria": "cat1"
+		},
+		"id228": {
+			"Nome": "Buste da lettera con la finestrella di plastica trasparente",
+			"Categoria": "cat1"
+		},
+		"id229": {
+			"Nome": "Buste della terra vuote",
+			"Categoria": "cat13"
+		},
+		"id230": {
+			"Nome": "Buste delle cialde e capsule monouso",
+			"Categoria": "cat13"
+		},
+		"id231": {
+			"Nome": "Buste per i surgelati",
+			"Categoria": "cat13"
+		},
+		"id232": {
+			"Nome": "Bustina dei campioni cosmetici",
+			"Categoria": "cat13"
+		},
+		"id233": {
+			"Nome": "Bustine cibo secco ed umido per animali",
+			"Categoria": "cat13"
+		},
+		"id234": {
+			"Nome": "Bustine vuote dei medicinali",
+			"Categoria": "cat14"
+		},
+		"id235": {
+			"Nome": "Bustine piene o semipiene dei medicinali",
+			"Categoria": "cat41"
+		},
+		"id236": {
+			"Nome": "Bustine vuote degli integratori",
+			"Categoria": "cat14"
+		},
+		"id237": {
+			"Nome": "Bustine piene o semipiene degli integratori",
+			"Categoria": "cat41"
+		},
+		"id238": {
+			"Nome": "Bustina crema idratante",
+			"Categoria": "cat13"
+		},
+		"id239": {
+			"Nome": "Bustine di zucchero (carta)",
+			"Categoria": "cat1"
+		},
+		"id240": {
+			"Nome": "Bustine in gel di silice (quelle all'interno di borse, scatole delle scarpe o valigie)",
+			"Categoria": "cat14"
+		},
+		"id241": {
+			"Nome": "Bustine del lievito (dolce) in carta",
+			"Categoria": "cat1"
+		},
+		"id242": {
+			"Nome": "Bustine del lievito (salato) in carta",
+			"Categoria": "cat1"
+		},
+		"id243": {
+			"Nome": "Bustine del lievito (salato) in poliaccoppiato a prevalenza plastica",
+			"Categoria": "cat13"
+		},
+		"id244": {
+			"Nome": "Camicia in buono stato",
+			"Categoria": "cat0"
+		},
+		"id245": {
+			"Nome": "Camicia in cattivo stato",
+			"Categoria": "cat16"
+		},
+		"id246": {
+			"Nome": "Canalina elettrica passacavi in plastica",
+			"Categoria": "cat16"
+		},
+		"id247": {
+			"Nome": "Candela",
+			"Categoria": "cat14"
+		},
+		"id248": {
+			"Nome": "Candele",
+			"Categoria": "cat14"
+		},
+		"id249": {
+			"Nome": "Candeline",
+			"Categoria": "cat14"
+		},
+		"id250": {
+			"Nome": "Cannuccia di plastica",
+			"Categoria": "cat14"
+		},
+		"id251": {
+			"Nome": "Caricabatterie",
+			"Categoria": "cat4"
+		},
+		"id252": {
+			"Nome": "Carta argentata",
+			"Categoria": "cat42"
+		},
+		"id253": {
+			"Nome": "Carta assorbente/Carta casa bagnata o sporca di materiale organico",
+			"Categoria": "cat19"
+		},
+		"id254": {
+			"Nome": "Carta assorbente/Carta casa imbevuta di detergenti, cosmetici",
+			"Categoria": "cat14"
+		},
+		"id255": {
+			"Nome": "Carta assorbente/Carta casa con piccole decorazioni",
+			"Categoria": "cat19"
+		},
+		"id256": {
+			"Nome": "Carta assorbente/Carta casa pulita",
+			"Categoria": "cat19"
+		},
+		"id257": {
+			"Nome": "Carta autocopiante",
+			"Categoria": "cat14"
+		},
+		"id258": {
+			"Nome": "Carta Bancomat",
+			"Categoria": "cat14"
+		},
+		"id259": {
+			"Nome": "Carta carbone",
+			"Categoria": "cat14"
+		},
+		"id260": {
+			"Nome": "Carta crespa",
+			"Categoria": "cat1"
+		},
+		"id261": {
+			"Nome": "Carta da fax",
+			"Categoria": "cat14"
+		},
+		"id262": {
+			"Nome": "Carta da forno",
+			"Categoria": "cat14"
+		},
+		"id263": {
+			"Nome": "Carta da forno compostabile",
+			"Categoria": "cat19"
+		},
+		"id264": {
+			"Nome": "Carta da regalo di carta (senza nastro adesivo)",
+			"Categoria": "cat1"
+		},
+		"id265": {
+			"Nome": "Carta da regalo in plastica",
+			"Categoria": "cat14"
+		},
+		"id266": {
+			"Nome": "Carta dei cioccolatini o caramelle di plastica argentata",
+			"Categoria": "cat13"
+		},
+		"id267": {
+			"Nome": "Carta dei cioccolatini o caramelle mista carta/plastica",
+			"Categoria": "cat14"
+		},
+		"id268": {
+			"Nome": "Carta dei cioccolatini o caramelle plastica trasparente",
+			"Categoria": "cat13"
+		},
+		"id269": {
+			"Nome": "Carta dei salumi con indicazione ovtene",
+			"Categoria": "cat13"
+		},
+		"id270": {
+			"Nome": "Carta dei salumi separabili",
+			"Categoria": "cat43"
+		},
+		"id271": {
+			"Nome": "Carta dei salumi non separabile (carta oleata)",
+			"Categoria": "cat44"
+		},
+		"id272": {
+			"Nome": "Carta del burro o margarina",
+			"Categoria": "cat14"
+		},
+		"id273": {
+			"Nome": "Carta del cono gelato confezionato (anche il discetto di carta)",
+			"Categoria": "cat14"
+		},
+		"id274": {
+			"Nome": "Carta di Credito",
+			"Categoria": "cat14"
+		},
+		"id275": {
+			"Nome": "Carta igienica bagnata o sporca di materiale organico",
+			"Categoria": "cat19"
+		},
+		"id276": {
+			"Nome": "Carta igienica imbevuta di detergenti, cosmetici",
+			"Categoria": "cat14"
+		},
+		"id277": {
+			"Nome": "Carta igienica con piccole decorazioni",
+			"Categoria": "cat19"
+		},
+		"id278": {
+			"Nome": "Carta igienica pulita",
+			"Categoria": "cat19"
+		},
+		"id279": {
+			"Nome": "Carta oleata",
+			"Categoria": "cat44"
+		},
+		"id280": {
+			"Nome": "Carta per gli affettati e formaggi con indicazione ovtene",
+			"Categoria": "cat13"
+		},
+		"id281": {
+			"Nome": "Carta per gli affettati e formaggi separabili",
+			"Categoria": "cat43"
+		},
+		"id282": {
+			"Nome": "Carta per gli affettati e formaggi non separabile (carta oleata)",
+			"Categoria": "cat44"
+		},
+		"id283": {
+			"Nome": "Carta sporca (vernici, materiali come detergenti e non compostabili)",
+			"Categoria": "cat14"
+		},
+		"id284": {
+			"Nome": "Carta plastificata",
+			"Categoria": "cat14"
+		},
+		"id285": {
+			"Nome": "Carta stagnola",
+			"Categoria": "cat42"
+		},
+		"id286": {
+			"Nome": "Carta del pesce",
+			"Categoria": "cat14"
+		},
+		"id287": {
+			"Nome": "Cartone della pizza",
+			"Categoria": "cat45"
+		},
+		"id288": {
+			"Nome": "Cartucce delle stampanti",
+			"Categoria": "cat46"
+		},
+		"id289": {
+			"Nome": "Cassetta di legno (ortofrutta, vini pregiati e cesti natalizi)",
+			"Categoria": "cat47"
+		},
+		"id290": {
+			"Nome": "Cassetta di plastica per la frutta",
+			"Categoria": "cat48"
+		},
+		"id291": {
+			"Nome": "Cattura polvere (panno, piumini e stracci)",
+			"Categoria": "cat14"
+		},
+		"id292": {
+			"Nome": "Cavi USB",
+			"Categoria": "cat4"
+		},
+		"id293": {
+			"Nome": "CD o Compact Disc",
+			"Categoria": "cat14"
+		},
+		"id294": {
+			"Nome": "Cellophane (pellicola)",
+			"Categoria": "cat13"
+		},
+		"id295": {
+			"Nome": "Cellulare",
+			"Categoria": "cat4"
+		},
+		"id296": {
+			"Nome": "Cenere di camino, stufe, pellet, barbecue, termocamini e termostufe",
+			"Categoria": "cat19"
+		},
+		"id297": {
+			"Nome": "Cenere di sigarette",
+			"Categoria": "cat14"
+		},
+		"id298": {
+			"Nome": "Ceramica",
+			"Categoria": "cat49"
+		},
+		"id299": {
+			"Nome": "Ceretta",
+			"Categoria": "cat14"
+		},
+		"id300": {
+			"Nome": "Cerotti",
+			"Categoria": "cat14"
+		},
+		"id301": {
+			"Nome": "Chewing Gum",
+			"Categoria": "cat14"
+		},
+		"id302": {
+			"Nome": "Chewing Gum biodegradabile",
+			"Categoria": "cat19"
+		},
+		"id303": {
+			"Nome": "Chiavetta USB",
+			"Categoria": "cat4"
+		},
+		"id304": {
+			"Nome": "Chiodi",
+			"Categoria": "cat37"
+		},
+		"id305": {
+			"Nome": "Cibo animali",
+			"Categoria": "cat19"
+		},
+		"id306": {
+			"Nome": "Cibo scaduto",
+			"Categoria": "cat19"
+		},
+		"id307": {
+			"Nome": "Coccarde decorative",
+			"Categoria": "cat50"
+		},
+		"id308": {
+			"Nome": "Componenti idraulici",
+			"Categoria": "cat2"
+		},
+		"id309": {
+			"Nome": "Condom",
+			"Categoria": "cat14"
+		},
+		"id310": {
+			"Nome": "Confezione in cartoncino dei medicinali vuote",
+			"Categoria": "cat1"
+		},
+		"id311": {
+			"Nome": "Confezione delle pile (quando si acquistano)",
+			"Categoria": "cat51"
+		},
+		"id312": {
+			"Nome": "Contenitore filo interdentale in plastica",
+			"Categoria": "cat13"
+		},
+		"id313": {
+			"Nome": "Contenitore dell'olio in acciaio",
+			"Categoria": "cat11"
+		},
+		"id314": {
+			"Nome": "Contenitore del latte (Tetra Pak)",
+			"Categoria": "cat39"
+		},
+		"id315": {
+			"Nome": "Contenitore monouso collirio (plastica)",
+			"Categoria": "cat13"
+		},
+		"id316": {
+			"Nome": "Copertine (anche di riviste e quaderni)",
+			"Categoria": "cat14"
+		},
+		"id317": {
+			"Nome": "Coppetta del gelato Mater-bi",
+			"Categoria": "cat19"
+		},
+		"id318": {
+			"Nome": "Coppetta del gelato in plastica",
+			"Categoria": "cat13"
+		},
+		"id319": {
+			"Nome": "Cotechino (confezione)",
+			"Categoria": "cat52"
+		},
+		"id320": {
+			"Nome": "Cotone idrofilo",
+			"Categoria": "cat14"
+		},
+		"id321": {
+			"Nome": "Cotton fioc anche con scritta biodegradabile",
+			"Categoria": "cat14"
+		},
+		"id322": {
+			"Nome": "Crema corpo (vasetto con coperchio in plastica)",
+			"Categoria": "cat13"
+		},
+		"id323": {
+			"Nome": "Crema viso (vasetto con coperchio in plastica)",
+			"Categoria": "cat13"
+		},
+		"id324": {
+			"Nome": "Cipria",
+			"Categoria": "cat14"
+		},
+		"id325": {
+			"Nome": "Cipria imballaggio in plastica vuoto",
+			"Categoria": "cat13"
+		},
+		"id326": {
+			"Nome": "Cristallo",
+			"Categoria": "cat14"
+		},
+		"id327": {
+			"Nome": "Croccantini animali",
+			"Categoria": "cat53"
+		},
+		"id328": {
+			"Nome": "Crosta di sale(sale cibi cotti in crosta di sale)",
+			"Categoria": "cat14"
+		},
+		"id329": {
+			"Nome": "Custodia dei CD",
+			"Categoria": "cat54"
+		},
+		"id330": {
+			"Nome": "Custodia degli occhiali",
+			"Categoria": "cat14"
+		},
+		"id331": {
+			"Nome": "Cuscini (in lana, in lattice, in spugna, da viaggio)",
+			"Categoria": "cat2"
+		},
+		"id332": {
+			"Nome": "Depliant senza plastica avvolgente",
+			"Categoria": "cat1"
+		},
+		"id333": {
+			"Nome": "Erba grandi quantità(anche erba secca)",
+			"Categoria": "cat18"
+		},
+		"id334": {
+			"Nome": "Erba piccole quantità (anche erba secca)",
+			"Categoria": "cat19"
+		},
+		"id335": {
+			"Nome": "Elastici (anche di sola plastica)",
+			"Categoria": "cat14"
+		},
+		"id336": {
+			"Nome": "Elettrodomestici",
+			"Categoria": "cat4"
+		},
+		"id337": {
+			"Nome": "Escrementi animali domestici",
+			"Categoria": "cat14"
+		},
+		"id338": {
+			"Nome": "Evidenziatore",
+			"Categoria": "cat14"
+		},
+		"id339": {
+			"Nome": "Farmaci non scaduti",
+			"Categoria": "cat31"
+		},
+		"id340": {
+			"Nome": "Farmaci scaduti",
+			"Categoria": "cat31"
+		},
+		"id341": {
+			"Nome": "Fascette per imballaggi",
+			"Categoria": "cat13"
+		},
+		"id342": {
+			"Nome": "Fazzoletti bagnati o sporchi di materiale organico di carta",
+			"Categoria": "cat19"
+		},
+		"id343": {
+			"Nome": "Fazzoletti imbevuti di detergenti di carta",
+			"Categoria": "cat14"
+		},
+		"id344": {
+			"Nome": "Fazzoletti abbondantemente colorati di carta",
+			"Categoria": "cat14"
+		},
+		"id345": {
+			"Nome": "Fazzoletti con piccole decorazioni di carta",
+			"Categoria": "cat19"
+		},
+		"id346": {
+			"Nome": "Fazzoletti puliti di carta",
+			"Categoria": "cat55"
+		},
+		"id347": {
+			"Nome": "Festoni albero di Natale",
+			"Categoria": "cat14"
+		},
+		"id348": {
+			"Nome": "Fiale in plastica (da imballaggio)",
+			"Categoria": "cat13"
+		},
+		"id349": {
+			"Nome": "Fili di ferro o alluminio",
+			"Categoria": "cat37"
+		},
+		"id350": {
+			"Nome": "Filo interdentale",
+			"Categoria": "cat14"
+		},
+		"id351": {
+			"Nome": "Filo interdentale (contenitore)",
+			"Categoria": "cat13"
+		},
+		"id352": {
+			"Nome": "Filtro di tè, tisane e camomille",
+			"Categoria": "cat56"
+		},
+		"id353": {
+			"Nome": "Flaconi dei detersivi di plastica",
+			"Categoria": "cat13"
+		},
+		"id354": {
+			"Nome": "Foglietto adesivo (post-it)",
+			"Categoria": "cat1"
+		},
+		"id355": {
+			"Nome": "Foglietto illustrativo dei medicinali",
+			"Categoria": "cat1"
+		},
+		"id356": {
+			"Nome": "Foglio di alluminio",
+			"Categoria": "cat42"
+		},
+		"id357": {
+			"Nome": "Fogli scritti",
+			"Categoria": "cat1"
+		},
+		"id358": {
+			"Nome": "Fondi di caffè",
+			"Categoria": "cat19"
+		},
+		"id359": {
+			"Nome": "Fondotinta",
+			"Categoria": "cat14"
+		},
+		"id360": {
+			"Nome": "Fondotinta imballaggio in plastica vuoto",
+			"Categoria": "cat13"
+		},
+		"id361": {
+			"Nome": "Forbici di metallo con manico in plastica",
+			"Categoria": "cat14"
+		},
+		"id362": {
+			"Nome": "Forcine per i capelli",
+			"Categoria": "cat14"
+		},
+		"id363": {
+			"Nome": "Fotografie",
+			"Categoria": "cat14"
+		},
+		"id364": {
+			"Nome": "Frullatore",
+			"Categoria": "cat4"
+		},
+		"id365": {
+			"Nome": "Gel di silice",
+			"Categoria": "cat14"
+		},
+		"id366": {
+			"Nome": "Ghisa",
+			"Categoria": "cat2"
+		},
+		"id367": {
+			"Nome": "Giocattoli non elettronici",
+			"Categoria": "cat57"
+		},
+		"id368": {
+			"Nome": "Giocattoli elettronici",
+			"Categoria": "cat58"
+		},
+		"id369": {
+			"Nome": "Giocattoli di plastica non elettronici",
+			"Categoria": "cat14"
+		},
+		"id370": {
+			"Nome": "Giornale",
+			"Categoria": "cat1"
+		},
+		"id371": {
+			"Nome": "Giornale bagnato di pipì del cane o del gatto",
+			"Categoria": "cat14"
+		},
+		"id372": {
+			"Nome": "Gomma da masticare",
+			"Categoria": "cat14"
+		},
+		"id373": {
+			"Nome": "Gomma da masticare biodegradabile",
+			"Categoria": "cat19"
+		},
+		"id374": {
+			"Nome": "Gomma per cancellare",
+			"Categoria": "cat14"
+		},
+		"id375": {
+			"Nome": "Gommapiuma",
+			"Categoria": "cat59"
+		},
+		"id376": {
+			"Nome": "Graffette metalliche",
+			"Categoria": "cat11"
+		},
+		"id377": {
+			"Nome": "Graffette metalliche attaccate a riviste o negli imballaggi di carta",
+			"Categoria": "cat1"
+		},
+		"id378": {
+			"Nome": "Gratta e Vinci",
+			"Categoria": "cat60"
+		},
+		"id379": {
+			"Nome": "Grucce in legno",
+			"Categoria": "cat61"
+		},
+		"id380": {
+			"Nome": "Grucce in metallo/alluminio",
+			"Categoria": "cat11"
+		},
+		"id381": {
+			"Nome": "Grucce in plastica vendute con l'abito",
+			"Categoria": "cat13"
+		},
+		"id382": {
+			"Nome": "Grucce in plastica vendute senza abito",
+			"Categoria": "cat17"
+		},
+		"id383": {
+			"Nome": "Grucce in plastica con gancio in metallo",
+			"Categoria": "cat13"
+		},
+		"id384": {
+			"Nome": "Guanti in lana, in cotone ed in pelle in buono stato",
+			"Categoria": "cat62"
+		},
+		"id385": {
+			"Nome": "Guanti in lana, in cotone ed in pelle in cattivo stato",
+			"Categoria": "cat63"
+		},
+		"id386": {
+			"Nome": "Guanti in plastica, in lattice, in nitrile, da cucina, da lavoro, in gomma ed in vinile",
+			"Categoria": "cat14"
+		},
+		"id387": {
+			"Nome": "Guarnizioni (anche di plastica)",
+			"Categoria": "cat14"
+		},
+		"id388": {
+			"Nome": "Gusci di cozze, vongole ed ostriche",
+			"Categoria": "cat64"
+		},
+		"id389": {
+			"Nome": "Gusci di frutta secca",
+			"Categoria": "cat19"
+		},
+		"id390": {
+			"Nome": "Gusci di frutti di mare",
+			"Categoria": "cat65"
+		},
+		"id391": {
+			"Nome": "Gusci di gamberi, aragoste e scampi",
+			"Categoria": "cat65"
+		},
+		"id392": {
+			"Nome": "Gusci di molluschi",
+			"Categoria": "cat64"
+		},
+		"id393": {
+			"Nome": "Gusci d'uovo",
+			"Categoria": "cat19"
+		},
+		"id394": {
+			"Nome": "Indumenti vecchi in buono stato",
+			"Categoria": "cat0"
+		},
+		"id395": {
+			"Nome": "Indumenti vecchi in cattivo stato",
+			"Categoria": "cat16"
+		},
+		"id396": {
+			"Nome": "Inerti",
+			"Categoria": "cat66"
+		},
+		"id397": {
+			"Nome": "Lacca per i capelli (bomboletta spray)",
+			"Categoria": "cat33"
+		},
+		"id398": {
+			"Nome": "Lacci delle scarpe",
+			"Categoria": "cat14"
+		},
+		"id399": {
+			"Nome": "Lampadina a incandescenza",
+			"Categoria": "cat14"
+		},
+		"id400": {
+			"Nome": "Lampadina alogena",
+			"Categoria": "cat14"
+		},
+		"id401": {
+			"Nome": "Lampadina fluorescente compatta",
+			"Categoria": "cat4"
+		},
+		"id402": {
+			"Nome": "Lampadina a LED",
+			"Categoria": "cat4"
+		},
+		"id403": {
+			"Nome": "Lampadina a scarica ad alta intensità",
+			"Categoria": "cat4"
+		},
+		"id404": {
+			"Nome": "Lampadina a vapore di sodio",
+			"Categoria": "cat4"
+		},
+		"id405": {
+			"Nome": "Lampadine albero di Natale",
+			"Categoria": "cat4"
+		},
+		"id406": {
+			"Nome": "Lana",
+			"Categoria": "cat14"
+		},
+		"id407": {
+			"Nome": "Lastre di radiografie, risonanze e TAC",
+			"Categoria": "cat14"
+		},
+		"id408": {
+			"Nome": "Lattine",
+			"Categoria": "cat11"
+		},
+		"id409": {
+			"Nome": "Lattine alluminio",
+			"Categoria": "cat11"
+		},
+		"id410": {
+			"Nome": "Lattine delle bibite in alluminio",
+			"Categoria": "cat11"
+		},
+		"id411": {
+			"Nome": "Lattine di cibo per animali",
+			"Categoria": "cat11"
+		},
+		"id412": {
+			"Nome": "Lattine olio alimentare",
+			"Categoria": "cat11"
+		},
+		"id413": {
+			"Nome": "Lattine tonno",
+			"Categoria": "cat11"
+		},
+		"id414": {
+			"Nome": "Legno",
+			"Categoria": "cat47"
+		},
+		"id415": {
+			"Nome": "Lenti a contatto",
+			"Categoria": "cat14"
+		},
+		"id416": {
+			"Nome": "Lettiera del gatto minerale",
+			"Categoria": "cat14"
+		},
+		"id417": {
+			"Nome": "Lettiera del gatto con scritta compostabile",
+			"Categoria": "cat19"
+		},
+		"id418": {
+			"Nome": "Lettore CD/DVD",
+			"Categoria": "cat4"
+		},
+		"id419": {
+			"Nome": "Lettore MP3",
+			"Categoria": "cat4"
+		},
+		"id420": {
+			"Nome": "Libro",
+			"Categoria": "cat1"
+		},
+		"id421": {
+			"Nome": "Libri",
+			"Categoria": "cat1"
+		},
+		"id422": {
+			"Nome": "Lische di pesce",
+			"Categoria": "cat19"
+		},
+		"id423": {
+			"Nome": "Luci albero di Natale",
+			"Categoria": "cat4"
+		},
+		"id424": {
+			"Nome": "Mascara",
+			"Categoria": "cat14"
+		},
+		"id425": {
+			"Nome": "Mascara imballaggio in plastica vuoto",
+			"Categoria": "cat13"
+		},
+		"id426": {
+			"Nome": "Maschera da mare o sub",
+			"Categoria": "cat14"
+		},
+		"id427": {
+			"Nome": "Maschera di plastica di carnevale",
+			"Categoria": "cat14"
+		},
+		"id428": {
+			"Nome": "Mascherine (antipolvere, antismog, mediche)",
+			"Categoria": "cat14"
+		},
+		"id429": {
+			"Nome": "Matite da disegno",
+			"Categoria": "cat14"
+		},
+		"id430": {
+			"Nome": "Matita per gli occhi",
+			"Categoria": "cat14"
+		},
+		"id431": {
+			"Nome": "Matita per le labbra",
+			"Categoria": "cat14"
+		},
+		"id432": {
+			"Nome": "Materassi",
+			"Categoria": "cat9"
+		},
+		"id433": {
+			"Nome": "Materassini gonfiabili da mare",
+			"Categoria": "cat67"
+		},
+		"id434": {
+			"Nome": "Materiale elettrico",
+			"Categoria": "cat4"
+		},
+		"id435": {
+			"Nome": "Matite colorate",
+			"Categoria": "cat14"
+		},
+		"id436": {
+			"Nome": "Mattonelle",
+			"Categoria": "cat66"
+		},
+		"id437": {
+			"Nome": "Mattoni",
+			"Categoria": "cat66"
+		},
+		"id438": {
+			"Nome": "Materiale di metallo di piccole dimensioni",
+			"Categoria": "cat37"
+		},
+		"id439": {
+			"Nome": "Medicinali (scaduti e anche non scaduti)",
+			"Categoria": "cat41"
+		},
+		"id440": {
+			"Nome": "Merendine (incarto in plastica)",
+			"Categoria": "cat13"
+		},
+		"id441": {
+			"Nome": "Micro SD",
+			"Categoria": "cat4"
+		},
+		"id442": {
+			"Nome": "Mocio pavimenti",
+			"Categoria": "cat14"
+		},
+		"id443": {
+			"Nome": "Mollette per il bucato",
+			"Categoria": "cat14"
+		},
+		"id444": {
+			"Nome": "Mozzicone di sigaretta o sigaro",
+			"Categoria": "cat14"
+		},
+		"id445": {
+			"Nome": "Mutande in cattivo stato",
+			"Categoria": "cat16"
+		},
+		"id446": {
+			"Nome": "Mutande in buono stato",
+			"Categoria": "cat0"
+		},
+		"id447": {
+			"Nome": "Nastri decorativi",
+			"Categoria": "cat68"
+		},
+		"id448": {
+			"Nome": "Nastro adesivo",
+			"Categoria": "cat14"
+		},
+		"id449": {
+			"Nome": "Nastro adesivo di carta",
+			"Categoria": "cat14"
+		},
+		"id450": {
+			"Nome": "Nastro da pacchi",
+			"Categoria": "cat14"
+		},
+		"id451": {
+			"Nome": "Nastro isolante",
+			"Categoria": "cat14"
+		},
+		"id452": {
+			"Nome": "Nastro per regali",
+			"Categoria": "cat14"
+		},
+		"id453": {
+			"Nome": "Noccioli della frutta fresca",
+			"Categoria": "cat19"
+		},
+		"id454": {
+			"Nome": "Noccioli di oliva",
+			"Categoria": "cat19"
+		},
+		"id455": {
+			"Nome": "Oggetti di cristallo",
+			"Categoria": "cat14"
+		},
+		"id456": {
+			"Nome": "Olio da frittura e olio di cottura classica",
+			"Categoria": "cat69"
+		},
+		"id457": {
+			"Nome": "Olio delle scatolette dei sott'olio",
+			"Categoria": "cat69"
+		},
+		"id458": {
+			"Nome": "Olio del tonno in scatola",
+			"Categoria": "cat69"
+		},
+		"id459": {
+			"Nome": "Ombrello rotto",
+			"Categoria": "cat14"
+		},
+		"id460": {
+			"Nome": "Ombretto",
+			"Categoria": "cat14"
+		},
+		"id461": {
+			"Nome": "Ombretto imballaggio in plastica vuoto",
+			"Categoria": "cat13"
+		},
+		"id462": {
+			"Nome": "Osso albicocca e pesca",
+			"Categoria": "cat19"
+		},
+		"id463": {
+			"Nome": "Osso delle ciliegie",
+			"Categoria": "cat19"
+		},
+		"id464": {
+			"Nome": "Ossa piccole",
+			"Categoria": "cat19"
+		},
+		"id465": {
+			"Nome": "Ossa grandi",
+			"Categoria": "cat14"
+		},
+		"id466": {
+			"Nome": "Ovatta",
+			"Categoria": "cat14"
+		},
+		"id467": {
+			"Nome": "Packaging imballaggio pasta in plastica",
+			"Categoria": "cat13"
+		},
+		"id468": {
+			"Nome": "Pacchetto delle sigarette",
+			"Categoria": "cat70"
+		},
+		"id469": {
+			"Nome": "Padelle in acciaio, alluminio di piccole dimensioni",
+			"Categoria": "cat11"
+		},
+		"id470": {
+			"Nome": "Padelle in acciaio, alluminio di grandi dimensioni",
+			"Categoria": "cat71"
+		},
+		"id471": {
+			"Nome": "Padelle antiaderenti, ferro, oro ed argento, rame e ghisa ed altri materiali",
+			"Categoria": "cat2"
+		},
+		"id472": {
+			"Nome": "Palettine da caffè",
+			"Categoria": "cat14"
+		},
+		"id473": {
+			"Nome": "Palline albero di Natale",
+			"Categoria": "cat14"
+		},
+		"id474": {
+			"Nome": "Palloni da gioco",
+			"Categoria": "cat14"
+		},
+		"id475": {
+			"Nome": "Pandoro e Panettone (confezione)",
+			"Categoria": "cat72"
+		},
+		"id476": {
+			"Nome": "Pennelli",
+			"Categoria": "cat14"
+		},
+		"id477": {
+			"Nome": "Pennelli da barba",
+			"Categoria": "cat14"
+		},
+		"id478": {
+			"Nome": "Pennelli da trucco",
+			"Categoria": "cat14"
+		},
+		"id479": {
+			"Nome": "PANNOCARTA",
+			"Categoria": "cat14"
+		},
+		"id480": {
+			"Nome": "Pannolini cani",
+			"Categoria": "cat14"
+		},
+		"id481": {
+			"Nome": "Pannolini compostabili",
+			"Categoria": "cat19"
+		},
+		"id482": {
+			"Nome": "Pannolini e pannoloni",
+			"Categoria": "cat12"
+		},
+		"id483": {
+			"Nome": "Pannolini lavabili",
+			"Categoria": "cat14"
+		},
+		"id484": {
+			"Nome": "Pasta (cruda o cotta)",
+			"Categoria": "cat19"
+		},
+		"id485": {
+			"Nome": "Pastelli",
+			"Categoria": "cat14"
+		},
+		"id486": {
+			"Nome": "Palettine da caffè in plastica",
+			"Categoria": "cat14"
+		},
+		"id487": {
+			"Nome": "Peli di cani e gatti",
+			"Categoria": "cat73"
+		},
+		"id488": {
+			"Nome": "Pellicola alimentare trasparente",
+			"Categoria": "cat13"
+		},
+		"id489": {
+			"Nome": "Peluches",
+			"Categoria": "cat14"
+		},
+		"id490": {
+			"Nome": "Pesce",
+			"Categoria": "cat19"
+		},
+		"id491": {
+			"Nome": "Penna a sfera",
+			"Categoria": "cat14"
+		},
+		"id492": {
+			"Nome": "Pennarelli",
+			"Categoria": "cat14"
+		},
+		"id493": {
+			"Nome": "Pentole in acciaio, alluminio di piccole dimensioni",
+			"Categoria": "cat11"
+		},
+		"id494": {
+			"Nome": "Pentole in acciaio, alluminio di grandi dimensioni",
+			"Categoria": "cat74"
+		},
+		"id495": {
+			"Nome": "Pentole antiaderenti, ferro, oro ed argento, rame e ghisa ed altri materiali",
+			"Categoria": "cat2"
+		},
+		"id496": {
+			"Nome": "Piatti e piattini di ceramica o porcellana",
+			"Categoria": "cat49"
+		},
+		"id497": {
+			"Nome": "Piatti di carta usa e getta puliti",
+			"Categoria": "cat1"
+		},
+		"id498": {
+			"Nome": "Piatti di carta usa e getta sporchi",
+			"Categoria": "cat14"
+		},
+		"id499": {
+			"Nome": "Piatti di plastica usa e getta puliti",
+			"Categoria": "cat13"
+		},
+		"id500": {
+			"Nome": "Piatti di plastica usa e getta sporchi",
+			"Categoria": "cat14"
+		},
+		"id501": {
+			"Nome": "Piatti di plastica non usa e getta",
+			"Categoria": "cat75"
+		},
+		"id502": {
+			"Nome": "Pile esauste",
+			"Categoria": "cat76"
+		},
+		"id503": {
+			"Nome": "Pluriball",
+			"Categoria": "cat13"
+		},
+		"id504": {
+			"Nome": "Pirofile Pyrex",
+			"Categoria": "cat14"
+		},
+		"id505": {
+			"Nome": "Pirottini di carta da forno",
+			"Categoria": "cat14"
+		},
+		"id506": {
+			"Nome": "Pirottini di carta compostabile sporchi",
+			"Categoria": "cat19"
+		},
+		"id507": {
+			"Nome": "Pirottini di carta semplice puliti",
+			"Categoria": "cat1"
+		},
+		"id508": {
+			"Nome": "Pirottini di carta semplice sporchi",
+			"Categoria": "cat19"
+		},
+		"id509": {
+			"Nome": "Pirottini di silicone",
+			"Categoria": "cat14"
+		},
+		"id510": {
+			"Nome": "Pirottini in alluminio",
+			"Categoria": "cat11"
+		},
+		"id511": {
+			"Nome": "Pneumatici auto, motociclette e scooter",
+			"Categoria": "cat77"
+		},
+		"id512": {
+			"Nome": "Polistirolo da imballaggio",
+			"Categoria": "cat13"
+		},
+		"id513": {
+			"Nome": "Polistirolo non imballaggio",
+			"Categoria": "cat14"
+		},
+		"id514": {
+			"Nome": "Polvere",
+			"Categoria": "cat14"
+		},
+		"id515": {
+			"Nome": "Porcellana",
+			"Categoria": "cat49"
+		},
+		"id516": {
+			"Nome": "Porta lenti a contatto",
+			"Categoria": "cat14"
+		},
+		"id517": {
+			"Nome": "Portascope",
+			"Categoria": "cat78"
+		},
+		"id518": {
+			"Nome": "Posate di metallo",
+			"Categoria": "cat79"
+		},
+		"id519": {
+			"Nome": "Posate di plastica",
+			"Categoria": "cat14"
+		},
+		"id520": {
+			"Nome": "Post-it (foglietti adesivi)",
+			"Categoria": "cat1"
+		},
+		"id521": {
+			"Nome": "Potature grandi quantità",
+			"Categoria": "cat18"
+		},
+		"id522": {
+			"Nome": "Potature piccole quantità",
+			"Categoria": "cat19"
+		},
+		"id523": {
+			"Nome": "Profilattico",
+			"Categoria": "cat14"
+		},
+		"id524": {
+			"Nome": "Pupazzi",
+			"Categoria": "cat14"
+		},
+		"id525": {
+			"Nome": "Radiografie",
+			"Categoria": "cat14"
+		},
+		"id526": {
+			"Nome": "Ramaglie grandi quantità",
+			"Categoria": "cat18"
+		},
+		"id527": {
+			"Nome": "Ramaglie piccole quantità",
+			"Categoria": "cat19"
+		},
+		"id528": {
+			"Nome": "Rami grandi quantità",
+			"Categoria": "cat18"
+		},
+		"id529": {
+			"Nome": "Rami piccole quantità",
+			"Categoria": "cat19"
+		},
+		"id530": {
+			"Nome": "Rasoio elettrico",
+			"Categoria": "cat58"
+		},
+		"id531": {
+			"Nome": "Rasoio usa e getta",
+			"Categoria": "cat14"
+		},
+		"id532": {
+			"Nome": "Residui di terra",
+			"Categoria": "cat19"
+		},
+		"id533": {
+			"Nome": "Retina dei vasi d'acquisto",
+			"Categoria": "cat13"
+		},
+		"id534": {
+			"Nome": "Retina (rete) per frutta e verdura",
+			"Categoria": "cat13"
+		},
+		"id535": {
+			"Nome": "Righello in plastica",
+			"Categoria": "cat80"
+		},
+		"id536": {
+			"Nome": "Risonanza magnetica",
+			"Categoria": "cat14"
+		},
+		"id537": {
+			"Nome": "Riviste (anche con le punte metalliche o graffette)",
+			"Categoria": "cat1"
+		},
+		"id538": {
+			"Nome": "Rossetto",
+			"Categoria": "cat14"
+		},
+		"id539": {
+			"Nome": "Rossetto imballaggio di plastica vuoto",
+			"Categoria": "cat13"
+		},
+		"id540": {
+			"Nome": "Rotolo della carta igienica",
+			"Categoria": "cat1"
+		},
+		"id541": {
+			"Nome": "Rubinetteria e componenti idraulici",
+			"Categoria": "cat2"
+		},
+		"id542": {
+			"Nome": "Rubinetti",
+			"Categoria": "cat2"
+		},
+		"id543": {
+			"Nome": "Sacchetto del caff sottovuoto",
+			"Categoria": "cat81"
+		},
+		"id544": {
+			"Nome": "Sacchetto del pane di carta sia marrone che bianco",
+			"Categoria": "cat1"
+		},
+		"id545": {
+			"Nome": "Sacchetto del pane di carta con finestrella in plastica",
+			"Categoria": "cat82"
+		},
+		"id546": {
+			"Nome": "Sacchetto del pane di carta con finestrella in PLA (bioplastica compostabile)",
+			"Categoria": "cat19"
+		},
+		"id547": {
+			"Nome": "Sacchetto del pane di plastica trasparente traforata",
+			"Categoria": "cat13"
+		},
+		"id548": {
+			"Nome": "Sacchetto delle patatine",
+			"Categoria": "cat13"
+		},
+		"id549": {
+			"Nome": "Sacchetti accoppiati carta e plastica",
+			"Categoria": "cat83"
+		},
+		"id550": {
+			"Nome": "Sacchetti aspirapolvere",
+			"Categoria": "cat14"
+		},
+		"id551": {
+			"Nome": "Sacchetti biodegradabili con scritta biodegradabile)",
+			"Categoria": "cat13"
+		},
+		"id552": {
+			"Nome": "Sacchetti compostabili con scritta biodegradabile e compostabile",
+			"Categoria": "cat19"
+		},
+		"id553": {
+			"Nome": "Sacchetti degli snack",
+			"Categoria": "cat13"
+		},
+		"id554": {
+			"Nome": "Sacchetti croccantini o cibo secco degli animali",
+			"Categoria": "cat13"
+		},
+		"id555": {
+			"Nome": "Sacchetti dei biscotti con dicitura carta",
+			"Categoria": "cat1"
+		},
+		"id556": {
+			"Nome": "Sacchetti dei biscotti senza indicazioni o con dicitura indifferenziato",
+			"Categoria": "cat14"
+		},
+		"id557": {
+			"Nome": "Sacchetti dei biscotti in plastica",
+			"Categoria": "cat13"
+		},
+		"id558": {
+			"Nome": "Sacchetti dei cereali",
+			"Categoria": "cat13"
+		},
+		"id559": {
+			"Nome": "Sacchetti dei surgelati",
+			"Categoria": "cat13"
+		},
+		"id560": {
+			"Nome": "Sacchetti del riso sottovuoto",
+			"Categoria": "cat13"
+		},
+		"id561": {
+			"Nome": "Sacchetti della mozzarella",
+			"Categoria": "cat13"
+		},
+		"id562": {
+			"Nome": "Sacchetti della pasta",
+			"Categoria": "cat13"
+		},
+		"id563": {
+			"Nome": "Sacchetti della spazzatura",
+			"Categoria": "cat13"
+		},
+		"id564": {
+			"Nome": "Sacchetti di plastica",
+			"Categoria": "cat13"
+		},
+		"id565": {
+			"Nome": "Sacchetti di carta",
+			"Categoria": "cat1"
+		},
+		"id566": {
+			"Nome": "Sacchetti di carta marrone o bianchi tipo del pane, frutta e verdura puliti",
+			"Categoria": "cat1"
+		},
+		"id567": {
+			"Nome": "Sacchetti di carta marrone o bianchi tipo del pane, frutta e verdura unti di cibo",
+			"Categoria": "cat19"
+		},
+		"id568": {
+			"Nome": "Sacchetti ed imballaggi in Master-Bi o compostabili",
+			"Categoria": "cat19"
+		},
+		"id569": {
+			"Nome": "Sacchetti gelo in plastica",
+			"Categoria": "cat14"
+		},
+		"id570": {
+			"Nome": "Sacchetti insalata pronta",
+			"Categoria": "cat13"
+		},
+		"id571": {
+			"Nome": "Sacchetti isotermici per surgelati",
+			"Categoria": "cat13"
+		},
+		"id572": {
+			"Nome": "Sacchetti per il congelatore in plastica",
+			"Categoria": "cat14"
+		},
+		"id573": {
+			"Nome": "Sacchi della terra vuoti",
+			"Categoria": "cat13"
+		},
+		"id574": {
+			"Nome": "Salviette umidificate",
+			"Categoria": "cat14"
+		},
+		"id575": {
+			"Nome": "Salviette umidificate compostabili e biodegradabili",
+			"Categoria": "cat19"
+		},
+		"id576": {
+			"Nome": "Sanitari in ceramica privi di materiali metallici",
+			"Categoria": "cat66"
+		},
+		"id577": {
+			"Nome": "Sapone (saponette e scaglie di sapone)",
+			"Categoria": "cat14"
+		},
+		"id578": {
+			"Nome": "Scaldamani riutilizzabili",
+			"Categoria": "cat14"
+		},
+		"id579": {
+			"Nome": "Scarpe appaiate (in coppia) in cattivo stato",
+			"Categoria": "cat63"
+		},
+		"id580": {
+			"Nome": "Scarpe appaiate (in coppia) in buono stato",
+			"Categoria": "cat62"
+		},
+		"id581": {
+			"Nome": "Scarpe non appaiate (singole)",
+			"Categoria": "cat63"
+		},
+		"id582": {
+			"Nome": "Scatole di cartone (smontate e ridotte)",
+			"Categoria": "cat1"
+		},
+		"id583": {
+			"Nome": "Scatola delle scarpe",
+			"Categoria": "cat1"
+		},
+		"id584": {
+			"Nome": "Scatoletta cibo animali",
+			"Categoria": "cat11"
+		},
+		"id585": {
+			"Nome": "Scatoletta cibo gatto e cane",
+			"Categoria": "cat11"
+		},
+		"id586": {
+			"Nome": "Scatoletta Simmenthal",
+			"Categoria": "cat11"
+		},
+		"id587": {
+			"Nome": "Scatoletta tonno",
+			"Categoria": "cat11"
+		},
+		"id588": {
+			"Nome": "Schede SD",
+			"Categoria": "cat4"
+		},
+		"id589": {
+			"Nome": "Schede telefoniche",
+			"Categoria": "cat14"
+		},
+		"id590": {
+			"Nome": "Scontrino",
+			"Categoria": "cat14"
+		},
+		"id591": {
+			"Nome": "Scopa",
+			"Categoria": "cat63"
+		},
+		"id592": {
+			"Nome": "Scopettone",
+			"Categoria": "cat63"
+		},
+		"id593": {
+			"Nome": "Scopettino del water",
+			"Categoria": "cat14"
+		},
+		"id594": {
+			"Nome": "Scopino",
+			"Categoria": "cat14"
+		},
+		"id595": {
+			"Nome": "Scotch (nastro adesivo)",
+			"Categoria": "cat14"
+		},
+		"id596": {
+			"Nome": "Scottex (carta assorbente o carta casa)",
+			"Categoria": "cat84"
+		},
+		"id597": {
+			"Nome": "Secchiello, palette e formine del mare",
+			"Categoria": "cat14"
+		},
+		"id598": {
+			"Nome": "Sfalci grandi quantità",
+			"Categoria": "cat18"
+		},
+		"id599": {
+			"Nome": "Sfalci piccole quantità",
+			"Categoria": "cat19"
+		},
+		"id600": {
+			"Nome": "Segatura pulita",
+			"Categoria": "cat85"
+		},
+		"id601": {
+			"Nome": "Segatura sporca di sostanze come detergenti, prodotti chimici, ecc ",
+			"Categoria": "cat14"
+		},
+		"id602": {
+			"Nome": "Shampoo (flacone vuoto)",
+			"Categoria": "cat13"
+		},
+		"id603": {
+			"Nome": "Sigaretta",
+			"Categoria": "cat14"
+		},
+		"id604": {
+			"Nome": "Sigaretta elettronica",
+			"Categoria": "cat4"
+		},
+		"id605": {
+			"Nome": "Sigaro",
+			"Categoria": "cat14"
+		},
+		"id606": {
+			"Nome": "SIM Card",
+			"Categoria": "cat4"
+		},
+		"id607": {
+			"Nome": "Siringhe (usate o non usate comunque sempre coperti con il loro cappuccio per evitare il rischio infettivo o di ferite)",
+			"Categoria": "cat15"
+		},
+		"id608": {
+			"Nome": "Slip non riutilizzabili",
+			"Categoria": "cat16"
+		},
+		"id609": {
+			"Nome": "Slip in buono stato",
+			"Categoria": "cat0"
+		},
+		"id610": {
+			"Nome": "Smalto (compresa la bottiglietta ed il tappo)",
+			"Categoria": "cat14"
+		},
+		"id611": {
+			"Nome": "Soletta delle scarpe",
+			"Categoria": "cat14"
+		},
+		"id612": {
+			"Nome": "Solvente per le unghie",
+			"Categoria": "cat86"
+		},
+		"id613": {
+			"Nome": "Soprammobile in porcellana o ceramica",
+			"Categoria": "cat49"
+		},
+		"id614": {
+			"Nome": "Spazzolino da denti elettrico",
+			"Categoria": "cat58"
+		},
+		"id615": {
+			"Nome": "Spazzolino da denti manuale",
+			"Categoria": "cat14"
+		},
+		"id616": {
+			"Nome": "Spazzolino per ciglia",
+			"Categoria": "cat14"
+		},
+		"id617": {
+			"Nome": "Specchio",
+			"Categoria": "cat63"
+		},
+		"id618": {
+			"Nome": "Spiedini in legno",
+			"Categoria": "cat19"
+		},
+		"id619": {
+			"Nome": "Spine di pesce",
+			"Categoria": "cat19"
+		},
+		"id620": {
+			"Nome": "Spugna (vari tipi)",
+			"Categoria": "cat14"
+		},
+		"id621": {
+			"Nome": "Spugna naturale",
+			"Categoria": "cat19"
+		},
+		"id622": {
+			"Nome": "Spugna metallica o di lana dacciaio",
+			"Categoria": "cat14"
+		},
+		"id623": {
+			"Nome": "Squadra da disegno in plastica",
+			"Categoria": "cat80"
+		},
+		"id624": {
+			"Nome": "Stecco del gelato o ghiaccioli in legno",
+			"Categoria": "cat19"
+		},
+		"id625": {
+			"Nome": "Stendino (stendibiancheria)",
+			"Categoria": "cat9"
+		},
+		"id626": {
+			"Nome": "Stendino in plastica (stendibiancheria in plastica)",
+			"Categoria": "cat9"
+		},
+		"id627": {
+			"Nome": "Stendino elettrico (stendibiancheria elettrica)",
+			"Categoria": "cat4"
+		},
+		"id628": {
+			"Nome": "Stick del burrocacao esaurito",
+			"Categoria": "cat13"
+		},
+		"id629": {
+			"Nome": "Stivali  in buono stato",
+			"Categoria": "cat0"
+		},
+		"id630": {
+			"Nome": "Stivali in cattivo stato",
+			"Categoria": "cat16"
+		},
+		"id631": {
+			"Nome": "Stracci (anche cattura polvere)",
+			"Categoria": "cat14"
+		},
+		"id632": {
+			"Nome": "Stuzzicadenti",
+			"Categoria": "cat19"
+		},
+		"id633": {
+			"Nome": "TAC",
+			"Categoria": "cat14"
+		},
+		"id634": {
+			"Nome": "Tampax",
+			"Categoria": "cat14"
+		},
+		"id635": {
+			"Nome": "Tappeto",
+			"Categoria": "cat63"
+		},
+		"id636": {
+			"Nome": "Tappetini",
+			"Categoria": "cat14"
+		},
+		"id637": {
+			"Nome": "Tappetini auto",
+			"Categoria": "cat2"
+		},
+		"id638": {
+			"Nome": "Tappetini in gomma",
+			"Categoria": "cat14"
+		},
+		"id639": {
+			"Nome": "Tappetini per cani assorbenti",
+			"Categoria": "cat14"
+		},
+		"id640": {
+			"Nome": "Tappetini per i mouse",
+			"Categoria": "cat14"
+		},
+		"id641": {
+			"Nome": "Tappo o tappi a corona metallico",
+			"Categoria": "cat11"
+		},
+		"id642": {
+			"Nome": "Tappo o tappi a vite metallico",
+			"Categoria": "cat11"
+		},
+		"id643": {
+			"Nome": "Tappo o tappi della birra",
+			"Categoria": "cat11"
+		},
+		"id644": {
+			"Nome": "Tappo o tappi di plastica",
+			"Categoria": "cat87"
+		},
+		"id645": {
+			"Nome": "Tappo di sughero",
+			"Categoria": "cat88"
+		},
+		"id646": {
+			"Nome": "Tazze e tazzine di ceramica e porcellana",
+			"Categoria": "cat49"
+		},
+		"id647": {
+			"Nome": "Tappo di sughero finto",
+			"Categoria": "cat14"
+		},
+		"id648": {
+			"Nome": "Telecomando",
+			"Categoria": "cat4"
+		},
+		"id649": {
+			"Nome": "Telefono",
+			"Categoria": "cat4"
+		},
+		"id650": {
+			"Nome": "Telefono cellulare",
+			"Categoria": "cat4"
+		},
+		"id651": {
+			"Nome": "Telo copripiscina",
+			"Categoria": "cat63"
+		},
+		"id652": {
+			"Nome": "Temperino in plastica",
+			"Categoria": "cat14"
+		},
+		"id653": {
+			"Nome": "Termometro al mercurio",
+			"Categoria": "cat8"
+		},
+		"id654": {
+			"Nome": "Termometro ecologico senza mercurio",
+			"Categoria": "cat14"
+		},
+		"id655": {
+			"Nome": "Termometro digitale",
+			"Categoria": "cat58"
+		},
+		"id656": {
+			"Nome": "Terra grandi quantità",
+			"Categoria": "cat18"
+		},
+		"id657": {
+			"Nome": "Terra piccole quantità",
+			"Categoria": "cat19"
+		},
+		"id658": {
+			"Nome": "Terracotta (vasi, barattoli e cocci)",
+			"Categoria": "cat49"
+		},
+		"id659": {
+			"Nome": "Terriccio grandi quantità",
+			"Categoria": "cat18"
+		},
+		"id660": {
+			"Nome": "Terriccio piccole quantità",
+			"Categoria": "cat19"
+		},
+		"id661": {
+			"Nome": "Tetra Pak",
+			"Categoria": "cat39"
+		},
+		"id662": {
+			"Nome": "Tinta per capelli o abiti (contenitore vuoto e pulito)",
+			"Categoria": "cat13"
+		},
+		"id663": {
+			"Nome": "Tinta per capelli o abiti (contenitore vuoto e sporco)",
+			"Categoria": "cat14"
+		},
+		"id664": {
+			"Nome": "Toner",
+			"Categoria": "cat46"
+		},
+		"id665": {
+			"Nome": "Torrone e Torroncini (confezione)",
+			"Categoria": "cat89"
+		},
+		"id666": {
+			"Nome": "Tovaglie e tovagliette di carta pulite",
+			"Categoria": "cat1"
+		},
+		"id667": {
+			"Nome": "Tovaglie e tovagliette di carta sporche",
+			"Categoria": "cat14"
+		},
+		"id668": {
+			"Nome": "Tovaglie e tovagliette in plastica o plastificate o altri materiali",
+			"Categoria": "cat14"
+		},
+		"id669": {
+			"Nome": "Tovaglioli bagnati o sporchi di materiale organico (di carta)",
+			"Categoria": "cat19"
+		},
+		"id670": {
+			"Nome": "Tovaglioli imbevuti di detergenti, cosmetici (di carta)",
+			"Categoria": "cat14"
+		},
+		"id671": {
+			"Nome": "Tovaglioli abbondantemente colorati (di carta)",
+			"Categoria": "cat14"
+		},
+		"id672": {
+			"Nome": "Tovaglioli con piccole decorazioni (di carta)",
+			"Categoria": "cat19"
+		},
+		"id673": {
+			"Nome": "Tovaglioli puliti (di carta)",
+			"Categoria": "cat19"
+		},
+		"id674": {
+			"Nome": "Tavoletta del water",
+			"Categoria": "cat9"
+		},
+		"id675": {
+			"Nome": "Tavoletta per wc (igienizzante)",
+			"Categoria": "cat14"
+		},
+		"id676": {
+			"Nome": "Trucchi",
+			"Categoria": "cat14"
+		},
+		"id677": {
+			"Nome": "Trucchi imballaggi in plastica vuoti",
+			"Categoria": "cat13"
+		},
+		"id678": {
+			"Nome": "Trucioli di matita o di colori a pastello",
+			"Categoria": "cat19"
+		},
+		"id679": {
+			"Nome": "Tubetto crema solare",
+			"Categoria": "cat13"
+		},
+		"id680": {
+			"Nome": "Tubetto della maionese",
+			"Categoria": "cat90"
+		},
+		"id681": {
+			"Nome": "Tubo delle patatine",
+			"Categoria": "cat91"
+		},
+		"id682": {
+			"Nome": "Tubi di cartone (anime per rotoli)",
+			"Categoria": "cat1"
+		},
+		"id683": {
+			"Nome": "Tubi di gomma",
+			"Categoria": "cat92"
+		},
+		"id684": {
+			"Nome": "Tubo fluorescente",
+			"Categoria": "cat4"
+		},
+		"id685": {
+			"Nome": "Vaschetta in polistirolo",
+			"Categoria": "cat13"
+		},
+		"id686": {
+			"Nome": "Vaschette della carne",
+			"Categoria": "cat13"
+		},
+		"id687": {
+			"Nome": "Vasetti crema viso in plastica",
+			"Categoria": "cat13"
+		},
+		"id688": {
+			"Nome": "Vasetti di vetro",
+			"Categoria": "cat25"
+		},
+		"id689": {
+			"Nome": "Vasetto del miele",
+			"Categoria": "cat93"
+		},
+		"id690": {
+			"Nome": "Vasetto della marmellata",
+			"Categoria": "cat93"
+		},
+		"id691": {
+			"Nome": "Vasi, vasetti e barattoli di terracotta",
+			"Categoria": "cat49"
+		},
+		"id692": {
+			"Nome": "Vasi di vetro",
+			"Categoria": "cat25"
+		},
+		"id693": {
+			"Nome": "Vasetti dello yogurt",
+			"Categoria": "cat94"
+		},
+		"id694": {
+			"Nome": "Vasi in terracotta o ceramica piccole dimensioni",
+			"Categoria": "cat49"
+		},
+		"id695": {
+			"Nome": "Vasi in terracotta o ceramica grandi dimensioni",
+			"Categoria": "cat66"
+		},
+		"id696": {
+			"Nome": "Vassoio in cartoncino per dolciumi anche dorato o decorato",
+			"Categoria": "cat1"
+		},
+		"id697": {
+			"Nome": "Vassoio in plastica per dolci o torte confezione",
+			"Categoria": "cat13"
+		},
+		"id698": {
+			"Nome": "Vassoio in plastica non facente parte dell'imballaggio di dolci e torte confezionate",
+			"Categoria": "cat80"
+		},
+		"id699": {
+			"Nome": "Vassoio in polistirolo per dolciumi",
+			"Categoria": "cat13"
+		},
+		"id700": {
+			"Nome": "Vernice (barattolo/bidone)",
+			"Categoria": "cat24"
+		},
+		"id701": {
+			"Nome": "Vetri rotti di bottiglie e vasetti",
+			"Categoria": "cat25"
+		},
+		"id702": {
+			"Nome": "Vetri rotti di bicchieri, brocche, pirex, ecc",
+			"Categoria": "cat14"
+		},
+		"id703": {
+			"Nome": "Vetroceramica (Pyrex)",
+			"Categoria": "cat14"
+		},
+		"id704": {
+			"Nome": "Videocassetta",
+			"Categoria": "cat14"
+		},
+		"id705": {
+			"Nome": "Viti",
+			"Categoria": "cat37"
+		},
+		"id706": {
+			"Nome": "Yogurt (alimento)",
+			"Categoria": "cat19"
+		},
+		"id707": {
+			"Nome": "Yogurt (confezione)",
+			"Categoria": "cat94"
+		},
+		"id708": {
+			"Nome": "Zaini",
+			"Categoria": "cat16"
+		},
+		"id709": {
+			"Nome": "Zampone (confezione)",
+			"Categoria": "cat52"
+		},
+		"id710": {
+			"Nome": "Zoccoli",
+			"Categoria": "cat16"
+		}
+	}
+}
